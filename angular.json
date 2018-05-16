@@ -21,6 +21,7 @@
               "src/favicon.ico"
             ],
             "styles": [
+              "node_modules/ng-antd/bundles/antd.css",
               "src/styles.scss"
             ],
             "scripts": []
